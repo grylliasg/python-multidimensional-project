@@ -1,1 +1,1 @@
-Python project - web scraping from wikipedia - using computational geometry with the data
+Python project - web scraping from wikipedia - applying computational geometry with the data
